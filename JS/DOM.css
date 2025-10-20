@@ -1,0 +1,248 @@
+ /* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ body{
+    background-color: darkblue;
+}
+body.tun{
+    background-color: #fff;
+}
+
+.main{
+    width: 100px;
+    height: 50px;
+    border: 3px solid gray;
+    background-color: #fff;
+    border-radius: 50px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: 50px;
+    margin-top:50px;
+}
+
+span{
+    display: flex;
+    margin-top: 4px;
+    margin: 0 3px;
+    border-radius: 50%;
+    font-size: 40px;
+}
+
+.toggle{
+    display: flex;
+}
+
+.active {
+    justify-content: flex-end;
+} */
+
+
+.inf {
+    width: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    transition: 2.s;
+} 
+ .nav {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+ }
+
+ .inf:hover {
+    background-color: rgba(153, 168, 181, 0.183);
+    cursor: pointer;
+    transition: .2s;
+    display: block;
+}
+
+
+.social {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    display: none;
+}
+
+.active{
+    display: block;
+}
+.w {
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.w:hover{
+    max-width: max-content;
+    background-color: rgba(153, 168, 181, 0.183);
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
